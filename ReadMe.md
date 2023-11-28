@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de programação
+Cursando a formação Dev Full Stack da Recode pro
 
 
 ## 🌐 Socials:
