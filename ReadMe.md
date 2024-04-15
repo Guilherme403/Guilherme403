@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cursando a formação Desenvolvedor Full Stack da Recode Pro
+Desenvolvedor Full Stack 
 
 ## 🌐 Socials:
 
